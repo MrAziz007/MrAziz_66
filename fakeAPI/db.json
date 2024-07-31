@@ -1,0 +1,81 @@
+{
+    "reals": [
+        {
+            "userNamae": "Charli",
+            "img": "https://images.pexels.com/photos/2773977/pexels-photo-2773977.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "Simon",
+            "img": "https://images.pexels.com/photos/2340978/pexels-photo-2340978.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "Anna",
+            "img": "https://images.pexels.com/photos/1499327/pexels-photo-1499327.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "John",
+            "img": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "Emily",
+            "img": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "Michael",
+            "img": "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "Sophia",
+            "img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "David",
+            "img": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "Olivia",
+            "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "userNamae": "James",
+            "img": "https://images.pexels.com/photos/235444/pexels-photo-235444.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+    ],
+    "posts": [
+        {
+            "nikname": "Kliker",
+            "img": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "city": "Moscow",
+            "country": "Russia",
+            "profilePhoto": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "nikname": "Boris",
+            "img": "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "city": "Saint Petersburg",
+            "country": "Russia",
+            "profilePhoto": "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "nikname": "Lara",
+            "img": "https://images.pexels.com/photos/1832324/pexels-photo-1832324.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "city": "Kiev",
+            "country": "Ukraine",
+            "profilePhoto": "https://images.pexels.com/photos/1832324/pexels-photo-1832324.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "nikname": "Alex",
+            "img": "https://images.pexels.com/photos/1208660/pexels-photo-1208660.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "city": "Minsk",
+            "country": "Belarus",
+            "profilePhoto": "https://images.pexels.com/photos/1208660/pexels-photo-1208660.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "nikname": "Sofia",
+            "img": "https://images.pexels.com/photos/10928747/pexels-photo-10928747.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
+            "city": "Warsaw",
+            "country": "Poland",
+            "profilePhoto": "https://images.pexels.com/photos/26997905/pexels-photo-26997905.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+        }
+    ]
+}
